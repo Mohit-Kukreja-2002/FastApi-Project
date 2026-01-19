@@ -1,6 +1,6 @@
 # HopeFund FastAPI Server
 
-This is the FastAPI version of the HopeFund server, converted from the original Express.js server.
+This is the FastAPI version of the HopeFund server.
 
 ## Setup
 
